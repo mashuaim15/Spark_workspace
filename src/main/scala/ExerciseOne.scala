@@ -43,6 +43,8 @@ object ExerciseOne extends App{
 //  val filtered = strings.filter(col("value").contains("Spark"))
 //  filtered.count()
 
+//  expression with expr()
+
 
 
 }
